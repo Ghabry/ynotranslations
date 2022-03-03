@@ -2,15 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: FlashfyreDev\n"
+"PO-Revision-Date: 2022-03-03 21:22+0000\n"
+"Last-Translator: Gabriel <admin@example.com>\n"
+"Language-Team: English <https://translate.easyrpg.org/projects/test/"
+"rpg_rt-ldb/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. ID 6, Page 2, Line 92, Pos (12,5)
 #. ChangeHeroName (Actor 7)
@@ -82,7 +84,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【PC画面BGMを演奏する】"
-msgstr ""
+msgstr "yadayada"
 
 #. ID 6, Page 5, Line 361, Pos (12,5)
 #. Contains choice at line 2 (2 options)
@@ -142,7 +144,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【外部マップから壁紙を表示する】"
-msgstr ""
+msgstr "bla"
 
 #. ID 6, Page 6, Line 349, Pos (12,5)
 msgid ""
@@ -188,7 +190,7 @@ msgstr "Enter Code"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【SR分室へ入室する】"
-msgstr ""
+msgstr "blub"
 
 #. ID 6, Page 6, Line 537, Pos (12,5)
 #. Contains choice at line 2 (3 options)
@@ -254,7 +256,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【壁紙ｷﾞｬﾗﾘｰへ入室する】"
-msgstr ""
+msgstr "bla"
 
 #. ID 6, Page 6, Line 592, Pos (12,5)
 #. Contains choice at line 3 (2 options)
