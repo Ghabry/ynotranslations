@@ -2,16 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: FukoSan\n"
+"PO-Revision-Date: 2022-03-03 21:27+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://translate.easyrpg.org/projects/test/"
+"rpg_rt-ldb/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. ID 6, Page 2, Line 92, Pos (12,5)
 #. ChangeHeroName (Actor 7)
@@ -239,7 +240,9 @@ msgstr "On"
 #. ID 6, Page 6, Line 575, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
-msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Actual: No.\\C[4]\\V[19] \\C[0]Aleatorio: \\C[4]\\N[2] \\C[0]Nuevo: \\C[4]\\N[3]\\C[0]"
+msgstr ""
+"\\C[4]\\>\\V[20]/\\V[558]\\C[0] Actual: No.\\C[4]\\V[19] \\C[0]Aleatorio: \\C"
+"[4]\\N[2] \\C[0]Nuevo: \\C[4]\\N[3]\\C[0]"
 
 #. ID 6, Page 6, Line 576, Pos (12,5)
 #. Choice (3 options, embedded in a message)
