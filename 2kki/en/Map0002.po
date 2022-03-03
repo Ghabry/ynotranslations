@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-03-03 21:22+0000\n"
-"Last-Translator: Gabriel <admin@example.com>\n"
+"PO-Revision-Date: 2022-03-03 21:27+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: English <https://translate.easyrpg.org/projects/test/"
 "rpg_rt-ldb/en/>\n"
 "Language: en\n"
@@ -239,7 +239,9 @@ msgstr "On"
 #. ID 6, Page 6, Line 575, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
-msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Cur. Wallpaper: No.\\C[4]\\V[19] \\C[0]Random: \\C[4]\\N[2] \\C[0]New: \\C[4]\\N[3]\\C[0]"
+msgstr ""
+"\\C[4]\\>\\V[20]/\\V[558]\\C[0] Cur. Wallpaper: No.\\C[4]\\V[19] \\C"
+"[0]Random: \\C[4]\\N[2] \\C[0]New: \\C[4]\\N[3]\\C[0]"
 
 #. ID 6, Page 6, Line 576, Pos (12,5)
 #. Choice (3 options, embedded in a message)
